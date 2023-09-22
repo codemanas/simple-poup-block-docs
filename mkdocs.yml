@@ -5,5 +5,8 @@ theme:
 nav:
   - Introduction: index.md
   - Installation: installation.md
+  - Popup Trigger: popup-trigger.md
+  - Popup Behavior: popup-behavior.md
+  - Popup Condition: popup-condition.md
   - About: about.md
  
