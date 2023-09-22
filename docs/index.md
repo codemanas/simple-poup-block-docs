@@ -24,10 +24,24 @@ The Simple Popup Block Plugin is a flexible and user-friendly solution that adds
 
 ## Feature Listing
 <ul>
-    <li>Popup trigger by time delay, on scroll [ by scroll percentage or targeted element using class or id ] and on click.</li>
+    <li>Popup trigger by </li>
+    <ul>
+        <li>Time Delay: By default set to 0 i.e. popup will trigger as soon as page loads.</li>
+        <li>On scroll:
+        <ol>
+            <li>By scroll percentage.</li>
+            <li>By targeted element using class or id.</li>
+        </ol>
+        <li>On click: Clicking on the targeted element using class or id.</li>
+    </ul>
     <li>Auto-Close option.</li>
-    <li>Show popup once.</li>
-    <li>Show popup for logged-in, logged-out or specific [ administration, editor, so on ].</li>
+    <li>Show popup only once.</li>
+    <li>Show popup for </li>
+    <ul>
+        <li>Logged-in</li>
+        <li>Logged-out </li>
+        <li>Based on roles i.e. administration, editor, and so on.</li>
+    </ul>
     <li>Adjustable dimensions.</li>
     <li>Close button customization.</li>
 </ul>
