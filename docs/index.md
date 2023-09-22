@@ -20,19 +20,16 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 # Simple Popup Block
 
 ## Introduction
-<p> The Simple Popup Block Plugin is a versatile and intuitive tool that extends the functionality of WordPress Block Editor by introducing a seamless popup feature. With its easy-to-use interface and robust customization options, this plugin empowers users to effortlessly create engaging popups tailored to their specific needs. </p>
+<p> The Simple Popup Block Plugin is a flexible and user-friendly solution that adds a seamless popup feature to the capability of the WordPress Block Editor. This plugin enables users to easily build interesting popups adapted to their unique needs thanks to its user-friendly interface and extensive customization possibilities. </p>
 
 ## Feature Listing
 <ul type= "disc">
-    <li>Popup trigger by time delay</li>
-    <li>Popup trigger by scroll percentage</li>
-    <li>Popup trigger by scroll with element targeting</li>
-    <li>Popup trigger by click </li>
-    <li>Auto-Close Popup</li>
-    <li>Show popup once</li>
-    <li>Show popup for targeted audience</li>
-    <li>Adjustable dimensions</li>
-    <li>Close button customization</li>
+    <li>Popup trigger by time delay, on scroll [ by scroll percentage or targeted element using class or id ] and on click.</li>
+    <li>Auto-Close option.</li>
+    <li>Show popup once.</li>
+    <li>Show popup for logged-in, logged-out or specific[administration, editor, so on].</li>
+    <li>Adjustable dimensions.</li>
+    <li>Close button customization.</li>
 </ul>
 
 
