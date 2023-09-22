@@ -2,13 +2,20 @@ site_name: Simple Popup Block
 theme:
   name: material
 
+extra_css:
+  - css/extra.css
 nav:
   - Introduction: index.md
   - Installation: installation.md
+  - Choose a Template: template.md
   - Popup Trigger: popup-trigger.md
   - Popup Behavior: popup-behavior.md
   - Popup Condition: popup-condition.md
-  - About: about.md
   - Dimension: dimension.md
   - Close Button: close-button.md
+  - Tutorial:
+      - 'Display On Whole Site': 'display-on-whole-site.md'
+
+
+
  
