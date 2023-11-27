@@ -20,3 +20,5 @@ Currently following are the templates included:
 
 Hover your mouse over any of the available templates and click, the template will be auto inserted for the Popup.
 You can also choose the **Start from scratch** option to create a completely unique design.
+
+    Note: Please be aware that there is a maximum height restriction for the popup, capped at 80vh.
