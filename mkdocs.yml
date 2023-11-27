@@ -4,6 +4,13 @@ theme:
 
 extra_css:
   - css/extra.css
+
+plugins:
+  - mkdocs-video:
+      is_video: True
+      video_muted: True
+      video_controls: True
+
 nav:
   - Introduction: index.md
   - Installation: installation.md
@@ -16,7 +23,3 @@ nav:
   - Tutorial:
       - 'Display On Whole Site': 'display-on-whole-site.md'
       - 'Show popup on click': 'trigger-on-click.md'
-
-
-
- 
