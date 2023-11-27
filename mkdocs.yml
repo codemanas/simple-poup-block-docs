@@ -15,6 +15,7 @@ nav:
   - Close Button: close-button.md
   - Tutorial:
       - 'Display On Whole Site': 'display-on-whole-site.md'
+      - 'Show popup on click': 'trigger-on-click.md'
 
 
 
