@@ -2,7 +2,7 @@
 If you want to add a video to the popup, then please follow the following steps
 
 1. Go to a page.
-2. Type **"/simple popup blocks"** or simply add **Simple Popup Block**.
+2. Type **"/Simple Popup Blocks"** or simply add **Simple Popup Block**.
 3. Click the **"Configure Popup"** button.
 4. Click on **start from scratch**.
 5. Type **"/video"** or add **video** block.
