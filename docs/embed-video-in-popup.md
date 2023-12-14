@@ -1,5 +1,5 @@
 
-If you want to make add a video to the popup, then please follow the following steps
+If you want to add a video to the popup, then please follow the following steps
 
 1. Go to a page.
 2. Type **"/simple popup blocks"** or simply add **Simple Popup Block**.
