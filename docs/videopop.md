@@ -14,4 +14,4 @@ If you want to make a video popup, then use the following steps
 
 For more info, watch the video below.
 
-[type:video](/simple-poup-block-docs/site/video/popup.mp4)
+![type:video](/simple-poup-block-docs/site/video/popup.mp4)
